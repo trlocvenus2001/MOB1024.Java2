@@ -110,7 +110,7 @@ public class mainLab2_3_List {
 //	        try {
 //	            System.out.print(">> New Salary: ");
 //	            double newSalary = Double.parseDouble(sc.nextLine());
-//	            emp.setSalary(newSalary);
+//	            listEmp.setSalary(newSalary);
 //	            System.out.println(">> Updated!");
 //	        } catch (NumberFormatException e) {
 //	            System.out.println(">> Error!");
